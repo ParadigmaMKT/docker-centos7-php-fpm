@@ -1,4 +1,4 @@
-# docker-centos7-php
+# docker-centos7-php-fpm
 
 PHP-FPM image running on CentOS 7 preconfigured to work along with NGINX and MySQL images.
 
